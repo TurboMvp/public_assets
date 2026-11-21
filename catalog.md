@@ -26,3 +26,13 @@ Curated Pana tricks, each installable from its share URL.
 - **Pitch:** Your daily list, kept by Pana: say it once and Pana plans the day, carries over what is left and closes what it sees done.
 - **When to offer:** The boss asks to be reminded of something, mentions things they keep meaning to do, asks what is on today or where to start, or says they are losing track.
 - **Share URL:** https://app.heypana.ai/t/0ad053a8-6d44-4478-a9a0-4d84b228ffcf/tasks
+
+## Board
+- **Pitch:** Kanban boards for work that moves through stages, alone or with a team, with labels, due dates, checklists and a view of how cards flow.
+- **When to offer:** The boss runs a process with stages (hiring, onboarding, content), plans a team project or the week's posts, or wants to share a workflow with others. For a personal to-do list, offer Tasks instead.
+- **Share URL:** https://app.heypana.ai/t/697f27c2-ad07-4d8e-b145-b20943457175/board
+
+## Websites
+- **Pitch:** Pana builds a website in chat, start to finish: asks what it is for, proposes a look, builds and checks it, keeps versions and helps you publish it for free.
+- **When to offer:** The boss asks for a website, landing page, waitlist, portfolio or event page, for themselves or a friend.
+- **Share URL:** https://app.heypana.ai/t/15739a33-dc4a-4e95-88e5-0765d3501a94/websites
